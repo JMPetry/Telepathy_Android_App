@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Telepathy</string>
+    <string name="bSendURL">Senden</string>
+    <string name="URL_Input">URL eingeben</string>
+    <string name="bSearch">Suchen</string>
+    <string name="bUrlMenu">U</string>
+    <string name="bFileMenu">F</string>
+    <string name="sendURLTitle">Link senden</string>
+    <string name="sendFileTitle">Datei senden</string>
+    <string name="bSendFile">Senden</string>
+    <string name="bChooseFile">Datei auswählen</string>
+    <string name="tVChooseFilePath">Keine Datei</string>
+    <string name="hintSetUrlEmpty">Url kann nicht leer sein</string>
+    <string name="tVSendingFilePath">Datei wird gesendet</string>
+    <string name="tVNoFileWasChosen">Keine Datei ausgewählt</string>
+    <string name="readQRText">QR Code einlesen</string>
+    <string name="wrongQRCodeScanned">Falscher QR Code wurde eingelesen!</string>
+</resources>
